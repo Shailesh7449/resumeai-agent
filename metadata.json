@@ -1,0 +1,6 @@
+{
+  "name": "ResumeAI Agent",
+  "description": "AI-Powered Career Assistance and Job Recommendation Platform using Machine Learning, Hybrid Ranking, and Intelligent Agents",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
